@@ -1,5 +1,0 @@
-<templateSet group="Rails">
-  <template name="rlii" value="Rails.logger.info '!'*10" description="Rails logger info !!!!!!!!!!" toReformat="false" toShortenFQNames="true">
-    <context />
-  </template>
-</templateSet>
