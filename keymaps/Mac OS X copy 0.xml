@@ -1,0 +1,10 @@
+<keymap version="1" name="Mac OS X copy 0" parent="Mac OS X">
+  <action id="CheckinProject" />
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift meta n" />
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+  <action id="GotoLine">
+    <keyboard-shortcut first-keystroke="meta k" />
+  </action>
+</keymap>
